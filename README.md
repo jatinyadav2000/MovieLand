@@ -1,70 +1,15 @@
-# Getting Started with Create React App
+<img width="1440" alt="Screenshot 2023-08-18 at 5 05 16 PM" src="https://github.com/jatinyadav2000/MovieLand/assets/142376249/ed469273-af65-4125-8ce3-9701a82a669c">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img width="1440" alt="Screenshot 2023-08-18 at 5 05 29 PM" src="https://github.com/jatinyadav2000/MovieLand/assets/142376249/19595ec8-f1ab-4ec7-9c76-1b82dba4d41c">
 
-## Available Scripts
+<img width="1440" alt="Screenshot 2023-08-18 at 5 05 54 PM" src="https://github.com/jatinyadav2000/MovieLand/assets/142376249/ddebf7d2-4ac5-4672-910f-f43877981297">
 
-In the project directory, you can run:
+<img width="1440" alt="Screenshot 2023-08-18 at 5 06 23 PM" src="https://github.com/jatinyadav2000/MovieLand/assets/142376249/481d9f96-abeb-42b5-889e-83c59ab1253e">
 
-### `npm start`
+<img width="1440" alt="Screenshot 2023-08-18 at 5 06 28 PM" src="https://github.com/jatinyadav2000/MovieLand/assets/142376249/621a09b4-b266-42b9-aa3f-5ed0351e3303">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<img width="1440" alt="Screenshot 2023-08-18 at 5 07 10 PM" src="https://github.com/jatinyadav2000/MovieLand/assets/142376249/46db560c-7e80-46f9-bfe1-d5d035f72160">
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<img width="1440" alt="Screenshot 2023-08-18 at 5 07 48 PM" src="https://github.com/jatinyadav2000/MovieLand/assets/142376249/e8646aa9-ab84-4f08-ab6d-77d82b9c13c4">
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<img width="1440" alt="Screenshot 2023-08-18 at 5 09 33 PM" src="https://github.com/jatinyadav2000/MovieLand/assets/142376249/005f905e-c4ee-41c8-bbde-cf4a876d973c">
